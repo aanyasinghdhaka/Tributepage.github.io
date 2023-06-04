@@ -1,0 +1,46 @@
+div1 h1{
+    color: black;
+}
+div1 h2{
+    color: black;
+}
+
+div2 {
+    width: 75%;
+   
+    font-size: large;
+    font-weight: 700;
+    text-align: justify;
+    font-family: "Castoro Tilting";
+}
+div{
+    background-color: rgb(205, 204, 204);
+    font-family: "Playfair Display";
+    font-size: large;
+}
+
+section h1{
+    font-family: "Castoro Tilting";
+    font-size: 80px;
+}
+
+section h2{
+    font-family: "Pinyon Script";
+}
+h5{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h6{
+    font-family: "Castoro Tilting" ;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
+
+h7{
+    font-family: 'Times New Roman', serif;
+    font-weight: lighter;
+}
